@@ -1,5 +1,6 @@
 # REAL-TIME-COLLABORATION-TOOL
 
+
 # Description
 
 A real-time collaboration tool built using WebSockets, enabling multiple users to work together simultaneously on a shared document editor and whiteboard. This project demonstrates seamless, live synchronization of text content and drawing elements between connected users in a collaborative environment.
@@ -71,7 +72,9 @@ npm (Node Package Manager)
 # 📥 Installation
 
 # 1.Clone the repository:
-git clone 
+
+git clone https://github.com/moparthimanasa/REAL-TIME-COLLABORATION-TOOL.git
+
 cd realtime-collab
 
 # 2.Install dependencies:
@@ -79,6 +82,7 @@ npm init
 
 # 3.Start the WebSocket server:
 node server.js
+
 This runs your WebSocket server on http://localhost:3000.
 
 # Local Testing
