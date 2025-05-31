@@ -11,5 +11,6 @@ starting the document at first side :
 
 that is upadated on the another document and making some changes in it :
 
+![Image](https://github.com/user-attachments/assets/5f056e3e-d670-417e-bb36-ef401a71c7af)
 
 those changes are updated on the first document(observe the users) :
