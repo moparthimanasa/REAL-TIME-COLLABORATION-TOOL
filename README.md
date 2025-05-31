@@ -14,3 +14,8 @@ that is upadated on the another document and making some changes in it :
 ![Image](https://github.com/user-attachments/assets/5f056e3e-d670-417e-bb36-ef401a71c7af)
 
 those changes are updated on the first document(observe the users) :
+
+![Image](https://github.com/user-attachments/assets/6c2222df-a649-4afb-8b44-93679a2a54e9)
+
+you can also observe the user details:
+
