@@ -10,7 +10,7 @@ DOMAIN   : MERN STACK WEB DEVELOPMENT
 
 DURATION : 8 WEEKS
 
-MENTOR   : NEELA SANTOSH
+MENTOR   : NEELA SANTHOSH
 
 # Description
 
@@ -82,23 +82,23 @@ npm (Node Package Manager)
 
 # 📥 Installation
 
-# 1.Clone the repository:
+**1.Clone the repository:**
 
 cd realtime-collab
 
 git clone https://github.com/moparthimanasa/REAL-TIME-COLLABORATION-TOOL.git
 
-# 2.Install dependencies:
+**2.Install dependencies:**
 npm init
 
-# 3.Start the WebSocket server:
+**3.Start the WebSocket server:**
 node server.js
 
 This runs your WebSocket server on http://localhost:3000.
 
 # Local Testing
 
-# Open the app in two browser windows or tabs:
+**Open the app in two browser windows or tabs:**
 
 Go to http://localhost:3000/ in Window A
 
@@ -106,7 +106,7 @@ Open a second instance at http://localhost:3000/ in Window B
 
 Start editing the document or interacting with the whiteboard in one window.
 
-# Observe that:
+**Observe that:**
 
 The changes appear in real-time in the second window.
 
@@ -130,26 +130,26 @@ Store documents persistently with database integration.
 
 # output
 
-# 1️⃣ Starting the Document on the First Side
+**1️⃣ Starting the Document on the First Side**
 
 The document is initially created and edited by User A in one editor interface:
 
 ![Image](https://github.com/user-attachments/assets/6ed8ad76-ba1a-400e-a043-1a5992c15f9e)
 
-# 2️⃣ Synchronized Update on the Second Editor
+**2️⃣ Synchronized Update on the Second Editor**
 
 The same document appears in real-time on the second editor, where User B begins making changes:
 
 
 ![Image](https://github.com/user-attachments/assets/5f056e3e-d670-417e-bb36-ef401a71c7af)
 
-# 3️⃣ Changes Reflected Back in the First Editor
+**3️⃣ Changes Reflected Back in the First Editor**
 
 All changes made by User B are instantly synchronized and reflected in User A’s editor. Notice the presence of both users in the collaboration session:
 
 ![Image](https://github.com/user-attachments/assets/6c2222df-a649-4afb-8b44-93679a2a54e9)
 
-# 👥 User Information Panel
+**👥 User Information Panel**
 You can also view details of all active collaborators in the session, such as usernames and cursor presence:
 
 [Image](https://github.com/user-attachments/assets/670cf2f3-690b-41b9-bc4a-8167ae3c1cbb)
